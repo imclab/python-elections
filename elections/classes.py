@@ -35,3 +35,6 @@ class DataSource(object):
         self.colums = {}
         self.races = {}
 
+    def get_results(self):
+        raise NotImplementedError
+
