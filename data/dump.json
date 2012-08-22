@@ -1,0 +1,3774 @@
+{
+    "races": [
+        {
+            "candidates": [
+                {
+                    "first_name": "Randy", 
+                    "last_name": "J. Hayden", 
+                    "votes": "8693"
+                }, 
+                {
+                    "first_name": "Cindy", 
+                    "last_name": "Ryu", 
+                    "votes": "20249"
+                }
+            ], 
+            "name": "Legislative District 32 - State Representative Pos. 1", 
+            "total_votes": "28942"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Robert", 
+                    "last_name": "Reedy", 
+                    "votes": "5865"
+                }, 
+                {
+                    "first_name": "Ruth", 
+                    "last_name": "Kagi", 
+                    "votes": "20346"
+                }, 
+                {
+                    "first_name": "Eric", 
+                    "last_name": "R. Alvey", 
+                    "votes": "2908"
+                }
+            ], 
+            "name": "Legislative District 32 - State Representative Pos. 2", 
+            "total_votes": "29119"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "F. Strohmaier", 
+                    "votes": "2434"
+                }
+            ], 
+            "name": "Lincoln Superior Court - Judge Position 1", 
+            "total_votes": "2434"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Padden", 
+                    "votes": "22626"
+                }
+            ], 
+            "name": "Legislative District 4 - State Senator", 
+            "total_votes": "22626"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Ross", 
+                    "last_name": "Hunter", 
+                    "votes": "18225"
+                }, 
+                {
+                    "first_name": "Bill", 
+                    "last_name": "Hirt", 
+                    "votes": "8183"
+                }
+            ], 
+            "name": "Legislative District 48 - State Representative Pos. 1", 
+            "total_votes": "26408"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Antoni", 
+                    "last_name": "H. Froehling", 
+                    "votes": "33890"
+                }, 
+                {
+                    "first_name": "Stephanie", 
+                    "last_name": "Arend", 
+                    "votes": "90857"
+                }
+            ], 
+            "name": "Pierce Superior Court - Judge Position 12", 
+            "total_votes": "124747"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "E. Braun", 
+                    "votes": "9327"
+                }, 
+                {
+                    "first_name": "Dan", 
+                    "last_name": "Swecker", 
+                    "votes": "10861"
+                }, 
+                {
+                    "first_name": "Rae", 
+                    "last_name": "Lowery", 
+                    "votes": "2936"
+                }
+            ], 
+            "name": "Legislative District 20 - State Senator", 
+            "total_votes": "23124"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Ian", 
+                    "last_name": "Moody", 
+                    "votes": "4693"
+                }, 
+                {
+                    "first_name": "Rich", 
+                    "last_name": "Cowan", 
+                    "votes": "49406"
+                }, 
+                {
+                    "first_name": "Randall", 
+                    "last_name": "L. Yearout", 
+                    "votes": "11894"
+                }, 
+                {
+                    "first_name": "Cathy", 
+                    "last_name": "McMorris Rodgers", 
+                    "votes": "83186"
+                }
+            ], 
+            "name": "Congressional District 5 - U.S. Representative", 
+            "total_votes": "149179"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "G.", 
+                    "last_name": "Helen Whitener", 
+                    "votes": "52277"
+                }, 
+                {
+                    "first_name": "Stan", 
+                    "last_name": "Rumbaugh", 
+                    "votes": "69228"
+                }
+            ], 
+            "name": "Pierce Superior Court - Judge Position 18", 
+            "total_votes": "121505"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "T.W", 
+                    "last_name": "\"Chip\" Small", 
+                    "votes": "12985"
+                }
+            ], 
+            "name": "Chelan Superior Court - Judge Position 2", 
+            "total_votes": "12985"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Thomas", 
+                    "last_name": "Bjorgen", 
+                    "votes": "26062"
+                }, 
+                {
+                    "first_name": "Pamela", 
+                    "last_name": "(Pam) Loginsky", 
+                    "votes": "38293"
+                }, 
+                {
+                    "first_name": "Thomas", 
+                    "last_name": "(Tom) E. Weaver, Jr.", 
+                    "votes": "15133"
+                }, 
+                {
+                    "first_name": "Michael", 
+                    "last_name": "Lynch", 
+                    "votes": "20147"
+                }, 
+                {
+                    "first_name": "Brendan", 
+                    "last_name": "Williams", 
+                    "votes": "23706"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Foley", 
+                    "votes": "19761"
+                }
+            ], 
+            "name": "Court of Appeals, Division 2, District 2 - Judge Position 2", 
+            "total_votes": "143102"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Lesley", 
+                    "last_name": "A. Allan", 
+                    "votes": "12316"
+                }
+            ], 
+            "name": "Chelan Superior Court - Judge Position 1", 
+            "total_votes": "12316"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brad", 
+                    "last_name": "Toft", 
+                    "votes": "13310"
+                }, 
+                {
+                    "first_name": "Mark", 
+                    "last_name": "Mullet", 
+                    "votes": "14662"
+                }
+            ], 
+            "name": "Legislative District 5 - State Senator", 
+            "total_votes": "27972"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Patrick", 
+                    "last_name": "A. Monasmith", 
+                    "votes": "10400"
+                }
+            ], 
+            "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 1", 
+            "total_votes": "10400"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Allen", 
+                    "last_name": "Nielson", 
+                    "votes": "10244"
+                }
+            ], 
+            "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 2", 
+            "total_votes": "10244"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Hank", 
+                    "last_name": "Myers", 
+                    "votes": "11395"
+                }, 
+                {
+                    "first_name": "Cyrus", 
+                    "last_name": "Habib", 
+                    "votes": "14838"
+                }
+            ], 
+            "name": "Legislative District 48 - State Representative Pos. 2", 
+            "total_votes": "26233"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "James", 
+                    "last_name": "Bauckman", 
+                    "votes": "149370"
+                }, 
+                {
+                    "first_name": "Randy", 
+                    "last_name": "I. Dorn", 
+                    "votes": "634314"
+                }, 
+                {
+                    "first_name": "Don", 
+                    "last_name": "Hansler", 
+                    "votes": "104360"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "Patterson Blair", 
+                    "votes": "67898"
+                }, 
+                {
+                    "first_name": "Ronald", 
+                    "last_name": "L. (Ron) Higgins", 
+                    "votes": "172331"
+                }
+            ], 
+            "name": "Superintendent of Public Instruction", 
+            "total_votes": "1128273"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Terry", 
+                    "last_name": "R. Nealey", 
+                    "votes": "18433"
+                }
+            ], 
+            "name": "Legislative District 16 - State Representative Pos. 2", 
+            "total_votes": "18433"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brian", 
+                    "last_name": "L. Gunn", 
+                    "votes": "9112"
+                }, 
+                {
+                    "first_name": "Cathy", 
+                    "last_name": "Dahlquist", 
+                    "votes": "16169"
+                }
+            ], 
+            "name": "Legislative District 31 - State Representative Pos. 1", 
+            "total_votes": "25281"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Douglas", 
+                    "last_name": "W. McQuaid", 
+                    "votes": "266106"
+                }, 
+                {
+                    "first_name": "Susan", 
+                    "last_name": "Owens", 
+                    "votes": "707717"
+                }, 
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Stafne", 
+                    "votes": "142507"
+                }
+            ], 
+            "name": "Supreme Court - Justice Position 2", 
+            "total_votes": "1116330"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kristin", 
+                    "last_name": "Thompson", 
+                    "votes": "7126"
+                }, 
+                {
+                    "first_name": "Bob", 
+                    "last_name": "Hasegawa", 
+                    "votes": "14720"
+                }
+            ], 
+            "name": "Legislative District 11 - State Senator", 
+            "total_votes": "21846"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "James", 
+                    "last_name": "A. Schoenberger, Jr.", 
+                    "votes": "34695"
+                }, 
+                {
+                    "first_name": "Kathryn", 
+                    "last_name": "Nelson", 
+                    "votes": "90061"
+                }
+            ], 
+            "name": "Pierce Superior Court - Judge Position 13", 
+            "total_votes": "124756"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Will", 
+                    "last_name": "Benge", 
+                    "votes": "5952"
+                }, 
+                {
+                    "first_name": "Tina", 
+                    "last_name": "Orwall", 
+                    "votes": "14070"
+                }
+            ], 
+            "name": "Legislative District 33 - State Representative Pos. 1", 
+            "total_votes": "20022"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bruce", 
+                    "last_name": "O. Danielson", 
+                    "votes": "438867"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Gonzalez", 
+                    "votes": "664103"
+                }
+            ], 
+            "name": "Supreme Court - Justice Position 8", 
+            "total_votes": "1102970"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Upthegrove", 
+                    "votes": "15549"
+                }
+            ], 
+            "name": "Legislative District 33 - State Representative Pos. 2", 
+            "total_votes": "15549"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Karen", 
+                    "last_name": "Fraser", 
+                    "votes": "24154"
+                }
+            ], 
+            "name": "Legislative District 22 - State Senator", 
+            "total_votes": "24154"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Howard", 
+                    "last_name": "A. Pellett", 
+                    "votes": "5568"
+                }, 
+                {
+                    "first_name": "Jeff", 
+                    "last_name": "Morris", 
+                    "votes": "20283"
+                }
+            ], 
+            "name": "Legislative District 40 - State Representative Pos. 2", 
+            "total_votes": "25851"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Ronald", 
+                    "last_name": "E. Cox", 
+                    "votes": "253810"
+                }
+            ], 
+            "name": "Court of Appeals, Division 1, District 1 - Judge Position 4", 
+            "total_votes": "253810"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Barbara", 
+                    "last_name": "Bailey", 
+                    "votes": "21301"
+                }, 
+                {
+                    "first_name": "Mary", 
+                    "last_name": "Margaret Haugen", 
+                    "votes": "18717"
+                }
+            ], 
+            "name": "Legislative District 10 - State Senator", 
+            "total_votes": "40018"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "David", 
+                    "last_name": "Frockt", 
+                    "votes": "28144"
+                }
+            ], 
+            "name": "Legislative District 46 - State Senator", 
+            "total_votes": "28144"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Richard", 
+                    "last_name": "L. Brosey", 
+                    "votes": "11117"
+                }
+            ], 
+            "name": "Lewis Superior Court - Judge Position 3", 
+            "total_votes": "11117"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Nelson", 
+                    "last_name": "E. Hunt", 
+                    "votes": "10915"
+                }
+            ], 
+            "name": "Lewis Superior Court - Judge Position 1", 
+            "total_votes": "10915"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Scott", 
+                    "last_name": "R. Sparks", 
+                    "votes": "6357"
+                }
+            ], 
+            "name": "Kittitas Superior Court - Judge Position 2", 
+            "total_votes": "6357"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sharon", 
+                    "last_name": "Tomiko Santos", 
+                    "votes": "21855"
+                }
+            ], 
+            "name": "Legislative District 37 - State Representative Pos. 1", 
+            "total_votes": "21855"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Tamra", 
+                    "last_name": "Smilanich", 
+                    "votes": "3223"
+                }, 
+                {
+                    "first_name": "Eric", 
+                    "last_name": "Pettigrew", 
+                    "votes": "21569"
+                }
+            ], 
+            "name": "Legislative District 37 - State Representative Pos. 2", 
+            "total_votes": "24792"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jeff", 
+                    "last_name": "Holy", 
+                    "votes": "9680"
+                }, 
+                {
+                    "first_name": "Ben", 
+                    "last_name": "Oakley", 
+                    "votes": "5127"
+                }, 
+                {
+                    "first_name": "Dennis", 
+                    "last_name": "Dellwo", 
+                    "votes": "12967"
+                }, 
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Keller", 
+                    "votes": "3285"
+                }
+            ], 
+            "name": "Legislative District 6 - State Representative Pos. 2", 
+            "total_votes": "31059"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Robert", 
+                    "last_name": "(Bob) Wilson", 
+                    "votes": "10105"
+                }, 
+                {
+                    "first_name": "Joel", 
+                    "last_name": "Kretz", 
+                    "votes": "16775"
+                }
+            ], 
+            "name": "Legislative District 7 - State Representative Pos. 2", 
+            "total_votes": "26880"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Shelly", 
+                    "last_name": "Short", 
+                    "votes": "25092"
+                }
+            ], 
+            "name": "Legislative District 7 - State Representative Pos. 1", 
+            "total_votes": "25092"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kevin", 
+                    "last_name": "Parker", 
+                    "votes": "21398"
+                }
+            ], 
+            "name": "Legislative District 6 - State Representative Pos. 1", 
+            "total_votes": "21398"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Yoshie", 
+                    "last_name": "Wong", 
+                    "votes": "10838"
+                }, 
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Carrell", 
+                    "votes": "16559"
+                }
+            ], 
+            "name": "Legislative District 28 - State Senator", 
+            "total_votes": "27397"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Hope", 
+                    "votes": "15930"
+                }, 
+                {
+                    "first_name": "Mary", 
+                    "last_name": "McNaughton", 
+                    "votes": "11455"
+                }
+            ], 
+            "name": "Legislative District 44 - State Representative Pos. 2", 
+            "total_votes": "27385"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Hans", 
+                    "last_name": "Dunshee", 
+                    "votes": "14199"
+                }, 
+                {
+                    "first_name": "Mark", 
+                    "last_name": "Harmsworth", 
+                    "votes": "8442"
+                }, 
+                {
+                    "first_name": "B.J.", 
+                    "last_name": "Guillot", 
+                    "votes": "1027"
+                }, 
+                {
+                    "first_name": "Robert", 
+                    "last_name": "(Bob) McCaughan", 
+                    "votes": "3605"
+                }
+            ], 
+            "name": "Legislative District 44 - State Representative Pos. 1", 
+            "total_votes": "27273"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Don", 
+                    "last_name": "Rivers", 
+                    "votes": "2688"
+                }, 
+                {
+                    "first_name": "Goodspaceguy", 
+                    "last_name": "", 
+                    "votes": "1387"
+                }, 
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Sutherland", 
+                    "votes": "5573"
+                }, 
+                {
+                    "first_name": "Andrew", 
+                    "last_name": "Hughes", 
+                    "votes": "10340"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "McDermott", 
+                    "votes": "124692"
+                }, 
+                {
+                    "first_name": "Ron", 
+                    "last_name": "Bemis", 
+                    "votes": "26791"
+                }, 
+                {
+                    "first_name": "Charles", 
+                    "last_name": "Allen", 
+                    "votes": "4367"
+                }
+            ], 
+            "name": "Congressional District 7 - U.S. Representative", 
+            "total_votes": "175838"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Judy", 
+                    "last_name": "Clibborn", 
+                    "votes": "22326"
+                }
+            ], 
+            "name": "Legislative District 41 - State Representative Pos. 2", 
+            "total_votes": "22326"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Ralph", 
+                    "last_name": "Schmidt", 
+                    "votes": "8881"
+                }, 
+                {
+                    "first_name": "Ann", 
+                    "last_name": "Rivers", 
+                    "votes": "15697"
+                }
+            ], 
+            "name": "Legislative District 18 - State Senator", 
+            "total_votes": "24578"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Tim", 
+                    "last_name": "Eaves", 
+                    "votes": "13243"
+                }, 
+                {
+                    "first_name": "Marcie", 
+                    "last_name": "Maxwell", 
+                    "votes": "18349"
+                }
+            ], 
+            "name": "Legislative District 41 - State Representative Pos. 1", 
+            "total_votes": "31592"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Koster", 
+                    "votes": "67185"
+                }, 
+                {
+                    "first_name": "Darcy", 
+                    "last_name": "Burner", 
+                    "votes": "20844"
+                }, 
+                {
+                    "first_name": "Darshan", 
+                    "last_name": "Rauniyar", 
+                    "votes": "4134"
+                }, 
+                {
+                    "first_name": "Laura", 
+                    "last_name": "Ruderman", 
+                    "votes": "10582"
+                }, 
+                {
+                    "first_name": "Suzan", 
+                    "last_name": "DelBene", 
+                    "votes": "33670"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Hobbs", 
+                    "votes": "10279"
+                }, 
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Ishmael", 
+                    "votes": "3062"
+                }
+            ], 
+            "name": "Congressional District 1 - U.S. Representative", 
+            "total_votes": "149756"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sam", 
+                    "last_name": "Hunt", 
+                    "votes": "23809"
+                }
+            ], 
+            "name": "Legislative District 22 - State Representative Pos. 2", 
+            "total_votes": "23809"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Chris", 
+                    "last_name": "Reykdal", 
+                    "votes": "23547"
+                }
+            ], 
+            "name": "Legislative District 22 - State Representative Pos. 1", 
+            "total_votes": "23547"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Carolyn", 
+                    "last_name": "Crain", 
+                    "votes": "8998"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Moeller", 
+                    "votes": "11883"
+                }
+            ], 
+            "name": "Legislative District 49 - State Representative Pos. 2", 
+            "total_votes": "20881"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sharon", 
+                    "last_name": "Wylie", 
+                    "votes": "11905"
+                }, 
+                {
+                    "first_name": "Debbie", 
+                    "last_name": "Peterson", 
+                    "votes": "8980"
+                }
+            ], 
+            "name": "Legislative District 49 - State Representative Pos. 1", 
+            "total_votes": "20885"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Richard", 
+                    "last_name": "DeBolt", 
+                    "votes": "20117"
+                }
+            ], 
+            "name": "Legislative District 20 - State Representative Pos. 1", 
+            "total_votes": "20117"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Morgan", 
+                    "votes": "8553"
+                }, 
+                {
+                    "first_name": "Ed", 
+                    "last_name": "Orcutt", 
+                    "votes": "12616"
+                }
+            ], 
+            "name": "Legislative District 20 - State Representative Pos. 2", 
+            "total_votes": "21169"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Lauren", 
+                    "last_name": "Walker", 
+                    "votes": "10639"
+                }, 
+                {
+                    "first_name": "Jake", 
+                    "last_name": "Fey", 
+                    "votes": "12078"
+                }
+            ], 
+            "name": "Legislative District 27 - State Representative Pos. 2", 
+            "total_votes": "22717"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Swapp", 
+                    "votes": "10791"
+                }, 
+                {
+                    "first_name": "Kevin", 
+                    "last_name": "Ranker", 
+                    "votes": "18684"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Cozad", 
+                    "votes": "1864"
+                }
+            ], 
+            "name": "Legislative District 40 - State Senator", 
+            "total_votes": "31339"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Steven", 
+                    "last_name": "T. Cook", 
+                    "votes": "6285"
+                }, 
+                {
+                    "first_name": "Laurie", 
+                    "last_name": "Jinkins", 
+                    "votes": "17937"
+                }
+            ], 
+            "name": "Legislative District 27 - State Representative Pos. 1", 
+            "total_votes": "24222"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jay", 
+                    "last_name": "Clough", 
+                    "votes": "8720"
+                }, 
+                {
+                    "first_name": "Brad", 
+                    "last_name": "Klippert", 
+                    "votes": "16203"
+                }
+            ], 
+            "name": "Legislative District 8 - State Representative Pos. 1", 
+            "total_votes": "24923"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Richard", 
+                    "last_name": "Reuther", 
+                    "votes": "6035"
+                }, 
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Haler", 
+                    "votes": "13663"
+                }, 
+                {
+                    "first_name": "Bob", 
+                    "last_name": "Parks", 
+                    "votes": "5278"
+                }
+            ], 
+            "name": "Legislative District 8 - State Representative Pos. 2", 
+            "total_votes": "24976"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Troy", 
+                    "last_name": "Kelley", 
+                    "votes": "291335"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "Watkins", 
+                    "votes": "584444"
+                }, 
+                {
+                    "first_name": "Mark", 
+                    "last_name": "Miloscia", 
+                    "votes": "123936"
+                }, 
+                {
+                    "first_name": "Craig", 
+                    "last_name": "Pridemore", 
+                    "votes": "268220"
+                }
+            ], 
+            "name": "State Auditor", 
+            "total_votes": "1267935"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Richard", 
+                    "last_name": "G. Wernette", 
+                    "votes": "5573"
+                }, 
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Wolfram", 
+                    "votes": "6913"
+                }
+            ], 
+            "name": "Walla Walla  Superior Court - Judge Position 2", 
+            "total_votes": "12486"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "W. Lohrmann", 
+                    "votes": "9979"
+                }
+            ], 
+            "name": "Walla Walla  Superior Court - Judge Position 1", 
+            "total_votes": "9979"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jay", 
+                    "last_name": "Rodne", 
+                    "votes": "19775"
+                }
+            ], 
+            "name": "Legislative District 5 - State Representative Pos. 1", 
+            "total_votes": "19775"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mary", 
+                    "last_name": "Baechler", 
+                    "votes": "27130"
+                }, 
+                {
+                    "first_name": "Doc", 
+                    "last_name": "Hastings", 
+                    "votes": "60774"
+                }, 
+                {
+                    "first_name": "Mohammad", 
+                    "last_name": "H. Said", 
+                    "votes": "2958"
+                }, 
+                {
+                    "first_name": "Jamie", 
+                    "last_name": "Wheeler", 
+                    "votes": "11581"
+                }
+            ], 
+            "name": "Congressional District 4 - U.S. Representative", 
+            "total_votes": "102443"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Ryan", 
+                    "last_name": "Dean Burkett", 
+                    "votes": "1202"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "Spring", 
+                    "votes": "11526"
+                }, 
+                {
+                    "first_name": "Chad", 
+                    "last_name": "Magendanz", 
+                    "votes": "14654"
+                }
+            ], 
+            "name": "Legislative District 5 - State Representative Pos. 2", 
+            "total_votes": "27382"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Paul", 
+                    "last_name": "Spencer", 
+                    "votes": "7640"
+                }, 
+                {
+                    "first_name": "Norm", 
+                    "last_name": "Johnson", 
+                    "votes": "14208"
+                }
+            ], 
+            "name": "Legislative District 14 - State Representative Pos. 1", 
+            "total_votes": "21848"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mathew", 
+                    "last_name": "K.M. Tomaskin", 
+                    "votes": "7269"
+                }, 
+                {
+                    "first_name": "Charles", 
+                    "last_name": "Ross", 
+                    "votes": "14730"
+                }
+            ], 
+            "name": "Legislative District 14 - State Representative Pos. 2", 
+            "total_votes": "21999"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kevin", 
+                    "last_name": "Van De Wege", 
+                    "votes": "26680"
+                }
+            ], 
+            "name": "Legislative District 24 - State Representative Pos. 1", 
+            "total_votes": "26680"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Nancy", 
+                    "last_name": "McLaughlin", 
+                    "votes": "9694"
+                }, 
+                {
+                    "first_name": "Andy", 
+                    "last_name": "Billig", 
+                    "votes": "13190"
+                }
+            ], 
+            "name": "Legislative District 3 - State Senator", 
+            "total_votes": "22884"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Gale", 
+                    "votes": "16399"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Tharinger", 
+                    "votes": "22133"
+                }
+            ], 
+            "name": "Legislative District 24 - State Representative Pos. 2", 
+            "total_votes": "38532"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Evan", 
+                    "last_name": "E Sperline", 
+                    "votes": "9396"
+                }
+            ], 
+            "name": "Grant Superior Court - Judge Position 1", 
+            "total_votes": "9396"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Knodell", 
+                    "votes": "8908"
+                }
+            ], 
+            "name": "Grant Superior Court - Judge Position 2", 
+            "total_votes": "8908"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brian", 
+                    "last_name": "Berry", 
+                    "votes": "2796"
+                }, 
+                {
+                    "first_name": "Ruth", 
+                    "last_name": "Morrison", 
+                    "votes": "1939"
+                }, 
+                {
+                    "first_name": "Laura", 
+                    "last_name": "Ruderman", 
+                    "votes": "15463"
+                }, 
+                {
+                    "first_name": "J.", 
+                    "last_name": "Byron Holcomb", 
+                    "votes": "1396"
+                }, 
+                {
+                    "first_name": "Darshan", 
+                    "last_name": "Rauniyar", 
+                    "votes": "5143"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "Koster", 
+                    "votes": "56631"
+                }, 
+                {
+                    "first_name": "Brian", 
+                    "last_name": "Sullivan", 
+                    "votes": "4861"
+                }, 
+                {
+                    "first_name": "Steven", 
+                    "last_name": "J. Gerdes", 
+                    "votes": "4066"
+                }, 
+                {
+                    "first_name": "Bob", 
+                    "last_name": "Champion", 
+                    "votes": "2542"
+                }, 
+                {
+                    "first_name": "Suzan", 
+                    "last_name": "DelBene", 
+                    "votes": "39620"
+                }, 
+                {
+                    "first_name": "Darcy", 
+                    "last_name": "Burner", 
+                    "votes": "23902"
+                }
+            ], 
+            "name": "Congressional District 1 One Month Short Term - U.S. Representative", 
+            "total_votes": "158359"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brian", 
+                    "last_name": "Hatfield", 
+                    "votes": "16898"
+                }, 
+                {
+                    "first_name": "Rick", 
+                    "last_name": "Winsman", 
+                    "votes": "11542"
+                }
+            ], 
+            "name": "Legislative District 19 - State Senator", 
+            "total_votes": "28440"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Eric", 
+                    "last_name": "Choiniere", 
+                    "votes": "11391"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "O'Ban", 
+                    "votes": "12375"
+                }, 
+                {
+                    "first_name": "Ken", 
+                    "last_name": "Campbell", 
+                    "votes": "2826"
+                }
+            ], 
+            "name": "Legislative District 28 - State Representative Pos. 1", 
+            "total_votes": "26592"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Tami", 
+                    "last_name": "Green", 
+                    "votes": "14110"
+                }, 
+                {
+                    "first_name": "Paul", 
+                    "last_name": "Wagemann", 
+                    "votes": "10239"
+                }, 
+                {
+                    "first_name": "Malcolm", 
+                    "last_name": "Russell", 
+                    "votes": "3175"
+                }
+            ], 
+            "name": "Legislative District 28 - State Representative Pos. 2", 
+            "total_votes": "27524"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Antosz", 
+                    "votes": "8631"
+                }
+            ], 
+            "name": "Grant Superior Court - Judge Position 3", 
+            "total_votes": "8631"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Sells", 
+                    "votes": "13156"
+                }, 
+                {
+                    "first_name": "Michael", 
+                    "last_name": "Casey", 
+                    "votes": "8463"
+                }
+            ], 
+            "name": "Legislative District 38 - State Representative Pos. 2", 
+            "total_votes": "21619"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sam", 
+                    "last_name": "Wilson", 
+                    "votes": "9075"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "McCoy", 
+                    "votes": "12865"
+                }
+            ], 
+            "name": "Legislative District 38 - State Representative Pos. 1", 
+            "total_votes": "21940"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Paul", 
+                    "last_name": "Harris", 
+                    "votes": "11749"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Gizzi", 
+                    "votes": "8794"
+                }
+            ], 
+            "name": "Legislative District 17 - State Representative Pos. 2", 
+            "total_votes": "20543"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Julie", 
+                    "last_name": "Olson", 
+                    "votes": "8785"
+                }, 
+                {
+                    "first_name": "Monica", 
+                    "last_name": "Stonier", 
+                    "votes": "9390"
+                }, 
+                {
+                    "first_name": "Matthew", 
+                    "last_name": "Homola", 
+                    "votes": "2506"
+                }
+            ], 
+            "name": "Legislative District 17 - State Representative Pos. 1", 
+            "total_votes": "20681"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bruce", 
+                    "last_name": "Chandler", 
+                    "votes": "12006"
+                }
+            ], 
+            "name": "Legislative District 15 - State Representative Pos. 1", 
+            "total_votes": "12006"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Pablo", 
+                    "last_name": "Gonzalez", 
+                    "votes": "4276"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "V. Taylor", 
+                    "votes": "9990"
+                }
+            ], 
+            "name": "Legislative District 15 - State Representative Pos. 2", 
+            "total_votes": "14266"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Lynda", 
+                    "last_name": "Ring-Erickson", 
+                    "votes": "9265"
+                }, 
+                {
+                    "first_name": "Drew", 
+                    "last_name": "C. MacEwen", 
+                    "votes": "14088"
+                }, 
+                {
+                    "first_name": "Jeff", 
+                    "last_name": "Davis", 
+                    "votes": "7788"
+                }, 
+                {
+                    "first_name": "Glenn", 
+                    "last_name": "H. Gaither", 
+                    "votes": "2009"
+                }
+            ], 
+            "name": "Legislative District 35 - State Representative Pos. 2", 
+            "total_votes": "33150"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kathy", 
+                    "last_name": "Haigh", 
+                    "votes": "17653"
+                }, 
+                {
+                    "first_name": "Dan", 
+                    "last_name": "Griffey", 
+                    "votes": "15999"
+                }
+            ], 
+            "name": "Legislative District 35 - State Representative Pos. 1", 
+            "total_votes": "33652"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jesse", 
+                    "last_name": "Young", 
+                    "votes": "18075"
+                }, 
+                {
+                    "first_name": "Eric", 
+                    "last_name": "G. Arentz Jr.", 
+                    "votes": "4101"
+                }, 
+                {
+                    "first_name": "Derek", 
+                    "last_name": "Kilmer", 
+                    "votes": "86436"
+                }, 
+                {
+                    "first_name": "Bill", 
+                    "last_name": "Driscoll", 
+                    "votes": "29602"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "(Ike) Eichner", 
+                    "votes": "7966"
+                }, 
+                {
+                    "first_name": "Stephan", 
+                    "last_name": "Andrew Brodhead", 
+                    "votes": "1387"
+                }, 
+                {
+                    "first_name": "Doug", 
+                    "last_name": "Cloud", 
+                    "votes": "14267"
+                }
+            ], 
+            "name": "Congressional District 6 - U.S. Representative", 
+            "total_votes": "161834"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Glenn", 
+                    "last_name": "Anderson", 
+                    "votes": "229318"
+                }, 
+                {
+                    "first_name": "Brad", 
+                    "last_name": "Owen", 
+                    "votes": "648110"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "Robert Deal", 
+                    "votes": "53694"
+                }, 
+                {
+                    "first_name": "Bill", 
+                    "last_name": "Finkbeiner", 
+                    "votes": "352195"
+                }, 
+                {
+                    "first_name": "Dave", 
+                    "last_name": "T. Sumner IV", 
+                    "votes": "6057"
+                }, 
+                {
+                    "first_name": "Mark", 
+                    "last_name": "Greene", 
+                    "votes": "46534"
+                }
+            ], 
+            "name": "Lt. Governor", 
+            "total_votes": "1335908"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Stephen", 
+                    "last_name": "A. Sharon", 
+                    "votes": "92993"
+                }, 
+                {
+                    "first_name": "Peter", 
+                    "last_name": "J. Goldmark", 
+                    "votes": "683448"
+                }, 
+                {
+                    "first_name": "Clint", 
+                    "last_name": "Didier", 
+                    "votes": "540907"
+                }
+            ], 
+            "name": "Commissioner of Public Lands", 
+            "total_votes": "1317348"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sherry", 
+                    "last_name": "V. Appleton", 
+                    "votes": "20298"
+                }, 
+                {
+                    "first_name": "Tony", 
+                    "last_name": "Stephens", 
+                    "votes": "13344"
+                }
+            ], 
+            "name": "Legislative District 23 - State Representative Pos. 1", 
+            "total_votes": "33642"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "William", 
+                    "last_name": "D. (Bill) Acey", 
+                    "votes": "5920"
+                }
+            ], 
+            "name": "Asotin, Columbia, Garfield Superior Court - Judge Position 1", 
+            "total_votes": "5920"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Josephine(Josie)", 
+                    "last_name": "Townsend", 
+                    "votes": "20969"
+                }, 
+                {
+                    "first_name": "Diane", 
+                    "last_name": "M. Woolard", 
+                    "votes": "35832"
+                }
+            ], 
+            "name": "Clark Superior Court - Judge Position 8", 
+            "total_votes": "56801"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Zack", 
+                    "last_name": "Hudgins", 
+                    "votes": "12653"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Flynn", 
+                    "votes": "5134"
+                }
+            ], 
+            "name": "Legislative District 11 - State Representative Pos. 1", 
+            "total_votes": "17787"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Bergquist", 
+                    "votes": "6074"
+                }, 
+                {
+                    "first_name": "Bobby", 
+                    "last_name": "Virk", 
+                    "votes": "3040"
+                }, 
+                {
+                    "first_name": "Stephanie", 
+                    "last_name": "Bowman", 
+                    "votes": "4853"
+                }, 
+                {
+                    "first_name": "Rob", 
+                    "last_name": "Holland", 
+                    "votes": "2245"
+                }, 
+                {
+                    "first_name": "Sarah", 
+                    "last_name": "Sanoy-Wright", 
+                    "votes": "5451"
+                }
+            ], 
+            "name": "Legislative District 11 - State Representative Pos. 2", 
+            "total_votes": "21663"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Eileen", 
+                    "last_name": "Qutub", 
+                    "votes": "8942"
+                }, 
+                {
+                    "first_name": "Annette", 
+                    "last_name": "Cleveland", 
+                    "votes": "11595"
+                }
+            ], 
+            "name": "Legislative District 49 - State Senator", 
+            "total_votes": "20537"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kshama", 
+                    "last_name": "Sawant", 
+                    "votes": "2854"
+                }, 
+                {
+                    "first_name": "Jamie", 
+                    "last_name": "Pedersen", 
+                    "votes": "28405"
+                }
+            ], 
+            "name": "Legislative District 43 - State Representative Pos. 1", 
+            "total_votes": "31259"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Frank", 
+                    "last_name": "Chopp", 
+                    "votes": "24287"
+                }, 
+                {
+                    "first_name": "Gregory", 
+                    "last_name": "Gadow", 
+                    "votes": "2585"
+                }
+            ], 
+            "name": "Legislative District 43 - State Representative Pos. 2", 
+            "total_votes": "26872"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Randi", 
+                    "last_name": "Becker", 
+                    "votes": "9517"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "E. Vaughn", 
+                    "votes": "4393"
+                }, 
+                {
+                    "first_name": "Bruce", 
+                    "last_name": "L. Lachney", 
+                    "votes": "9512"
+                }
+            ], 
+            "name": "Legislative District 2 - State Senator", 
+            "total_votes": "23422"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Lapointe", 
+                    "votes": "5806"
+                }, 
+                {
+                    "first_name": "Dan", 
+                    "last_name": "Matthews", 
+                    "votes": "39956"
+                }, 
+                {
+                    "first_name": "Eli", 
+                    "last_name": "Olson", 
+                    "votes": "3373"
+                }, 
+                {
+                    "first_name": "Rick", 
+                    "last_name": "Larsen", 
+                    "votes": "79632"
+                }, 
+                {
+                    "first_name": "Glen", 
+                    "last_name": "S. Johnson", 
+                    "votes": "2289"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "C. W. Shoop", 
+                    "votes": "8130"
+                }
+            ], 
+            "name": "Congressional District 2 - U.S. Representative", 
+            "total_votes": "139186"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kristine", 
+                    "last_name": "Lytton", 
+                    "votes": "21777"
+                }
+            ], 
+            "name": "Legislative District 40 - State Representative Pos. 1", 
+            "total_votes": "21777"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Chris", 
+                    "last_name": "Culp", 
+                    "votes": "6283"
+                }
+            ], 
+            "name": "Okanogan Superior Court - Judge Position 2", 
+            "total_votes": "6283"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kimberly", 
+                    "last_name": "Allen", 
+                    "votes": "130053"
+                }, 
+                {
+                    "first_name": "Doug", 
+                    "last_name": "North", 
+                    "votes": "198419"
+                }
+            ], 
+            "name": "King Superior Court - Judge Position 30", 
+            "total_votes": "328472"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Reuven", 
+                    "last_name": "Carlyle", 
+                    "votes": "31623"
+                }, 
+                {
+                    "first_name": "Robert", 
+                    "last_name": "Canamar", 
+                    "votes": "1522"
+                }, 
+                {
+                    "first_name": "Leslie", 
+                    "last_name": "Klein", 
+                    "votes": "2782"
+                }
+            ], 
+            "name": "Legislative District 36 - State Representative Pos. 1", 
+            "total_votes": "35927"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Gael", 
+                    "last_name": "Tarleton", 
+                    "votes": "10130"
+                }, 
+                {
+                    "first_name": "Sahar", 
+                    "last_name": "Fathi", 
+                    "votes": "4665"
+                }, 
+                {
+                    "first_name": "Ryan", 
+                    "last_name": "Gabriel", 
+                    "votes": "4757"
+                }, 
+                {
+                    "first_name": "Evan", 
+                    "last_name": "Clifthorne", 
+                    "votes": "2113"
+                }, 
+                {
+                    "first_name": "Linde", 
+                    "last_name": "Knighton", 
+                    "votes": "679"
+                }, 
+                {
+                    "first_name": "Brett", 
+                    "last_name": "Phillips", 
+                    "votes": "5034"
+                }, 
+                {
+                    "first_name": "Noel", 
+                    "last_name": "Christina Frame", 
+                    "votes": "8440"
+                }
+            ], 
+            "name": "Legislative District 36 - State Representative Pos. 2", 
+            "total_votes": "35818"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Millie", 
+                    "last_name": "Judge", 
+                    "votes": "61000"
+                }, 
+                {
+                    "first_name": "Jack", 
+                    "last_name": "Follis", 
+                    "votes": "57214"
+                }
+            ], 
+            "name": "Snohomish Superior Court - Judge Position 11", 
+            "total_votes": "118214"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Thatcher", 
+                    "votes": "12773"
+                }, 
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Springer", 
+                    "votes": "16309"
+                }
+            ], 
+            "name": "Legislative District 45 - State Representative Pos. 2", 
+            "total_votes": "29082"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Victor", 
+                    "last_name": "M. Minjares", 
+                    "votes": "5801"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Johnson", 
+                    "votes": "10748"
+                }, 
+                {
+                    "first_name": "Christine", 
+                    "last_name": "Schaller", 
+                    "votes": "23681"
+                }, 
+                {
+                    "first_name": "Marie", 
+                    "last_name": "Clarke", 
+                    "votes": "8532"
+                }
+            ], 
+            "name": "Thurston Superior Court - Judge Position 2", 
+            "total_votes": "48762"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Roger", 
+                    "last_name": "Goodman", 
+                    "votes": "14174"
+                }, 
+                {
+                    "first_name": "Jacob", 
+                    "last_name": "Bond", 
+                    "votes": "1895"
+                }, 
+                {
+                    "first_name": "Joel", 
+                    "last_name": "Hussey", 
+                    "votes": "12885"
+                }
+            ], 
+            "name": "Legislative District 45 - State Representative Pos. 1", 
+            "total_votes": "28954"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Indu", 
+                    "last_name": "Thomas", 
+                    "votes": "16822"
+                }, 
+                {
+                    "first_name": "Allen", 
+                    "last_name": "T. Miller", 
+                    "votes": "15401"
+                }, 
+                {
+                    "first_name": "Erik", 
+                    "last_name": "D. Price", 
+                    "votes": "16984"
+                }
+            ], 
+            "name": "Thurston Superior Court - Judge Position 4", 
+            "total_votes": "49207"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Crouse", 
+                    "votes": "22277"
+                }
+            ], 
+            "name": "Legislative District 4 - State Representative Pos. 1", 
+            "total_votes": "22277"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Matt", 
+                    "last_name": "Shea", 
+                    "votes": "18047"
+                }, 
+                {
+                    "first_name": "Amy", 
+                    "last_name": "C. Biviano", 
+                    "votes": "12017"
+                }
+            ], 
+            "name": "Legislative District 4 - State Representative Pos. 2", 
+            "total_votes": "30064"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Judy", 
+                    "last_name": "Ramseyer", 
+                    "votes": "203728"
+                }, 
+                {
+                    "first_name": "Gary", 
+                    "last_name": "Ernsdorff", 
+                    "votes": "121064"
+                }
+            ], 
+            "name": "King Superior Court - Judge Position 46", 
+            "total_votes": "324792"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Doug", 
+                    "last_name": "Richards", 
+                    "votes": "15408"
+                }, 
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Seaquist", 
+                    "votes": "17638"
+                }
+            ], 
+            "name": "Legislative District 26 - State Representative Pos. 2", 
+            "total_votes": "33046"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Karin", 
+                    "last_name": "Ashabraner", 
+                    "votes": "9763"
+                }, 
+                {
+                    "first_name": "Jan", 
+                    "last_name": "Angel", 
+                    "votes": "19152"
+                }, 
+                {
+                    "first_name": "Stephen", 
+                    "last_name": "Greer", 
+                    "votes": "4265"
+                }
+            ], 
+            "name": "Legislative District 26 - State Representative Pos. 1", 
+            "total_votes": "33180"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bruce", 
+                    "last_name": "Hilyer", 
+                    "votes": "311944"
+                }, 
+                {
+                    "first_name": "Sheryl", 
+                    "last_name": "Gordon McCloud", 
+                    "votes": "328345"
+                }, 
+                {
+                    "first_name": "Richard", 
+                    "last_name": "B. Sanders", 
+                    "votes": "323410"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "W. Ladenburg", 
+                    "votes": "171429"
+                }
+            ], 
+            "name": "Supreme Court - Justice Position 9", 
+            "total_votes": "1135128"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Eric", 
+                    "last_name": "Herde", 
+                    "votes": "9193"
+                }, 
+                {
+                    "first_name": "Bruce", 
+                    "last_name": "Dammeier", 
+                    "votes": "15806"
+                }
+            ], 
+            "name": "Legislative District 25 - State Senator", 
+            "total_votes": "24999"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Devin", 
+                    "last_name": "Poulson", 
+                    "votes": "21630"
+                }, 
+                {
+                    "first_name": "Teresa", 
+                    "last_name": "C. Kulik", 
+                    "votes": "30704"
+                }
+            ], 
+            "name": "Court of Appeals, Division 3, District 3 - Judge Position 2", 
+            "total_votes": "52334"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Gordon", 
+                    "last_name": "L. Godfrey", 
+                    "votes": "10612"
+                }
+            ], 
+            "name": "Grays Harbor Superior Court - Judge Position 1", 
+            "total_votes": "10612"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mark", 
+                    "last_name": "McCauley", 
+                    "votes": "10597"
+                }
+            ], 
+            "name": "Grays Harbor Superior Court - Judge Position 3", 
+            "total_votes": "10597"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Edwards", 
+                    "votes": "10542"
+                }
+            ], 
+            "name": "Grays Harbor Superior Court - Judge Position 2", 
+            "total_votes": "10542"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Stan", 
+                    "last_name": "Flemming", 
+                    "votes": "19934"
+                }, 
+                {
+                    "first_name": "Richard", 
+                    "last_name": "(Dick) Muri", 
+                    "votes": "36173"
+                }, 
+                {
+                    "first_name": "Denny", 
+                    "last_name": "Heck", 
+                    "votes": "51047"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Hannon", 
+                    "votes": "3025"
+                }, 
+                {
+                    "first_name": "Jennifer", 
+                    "last_name": "Ferguson", 
+                    "votes": "14026"
+                }, 
+                {
+                    "first_name": "Sue", 
+                    "last_name": "Gunn", 
+                    "votes": "4292"
+                }
+            ], 
+            "name": "Congressional District 10 - U.S. Representative", 
+            "total_votes": "128497"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Christine", 
+                    "last_name": "Quinn-Brintnall", 
+                    "votes": "106003"
+                }
+            ], 
+            "name": "Court of Appeals, Division 2, District 1 - Judge Position 3", 
+            "total_votes": "106003"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Rosemary", 
+                    "last_name": "McAuliffe", 
+                    "votes": "13238"
+                }, 
+                {
+                    "first_name": "Guy", 
+                    "last_name": "Palumbo", 
+                    "votes": "4048"
+                }, 
+                {
+                    "first_name": "Dawn", 
+                    "last_name": "McCravey", 
+                    "votes": "12619"
+                }
+            ], 
+            "name": "Legislative District 1 - State Senator", 
+            "total_votes": "29905"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Paul", 
+                    "last_name": "Sander", 
+                    "votes": "2114"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Denison", 
+                    "votes": "2414"
+                }, 
+                {
+                    "first_name": "Fran", 
+                    "last_name": "Chmelewski", 
+                    "votes": "3794"
+                }
+            ], 
+            "name": "Kittitas Superior Court - Judge Position 1", 
+            "total_votes": "8322"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jaime", 
+                    "last_name": "Herrera Beutler", 
+                    "votes": "68603"
+                }, 
+                {
+                    "first_name": "Jon", 
+                    "last_name": "T. Haugen", 
+                    "votes": "45693"
+                }, 
+                {
+                    "first_name": "Norma", 
+                    "last_name": "Jean Stevens", 
+                    "votes": "7108"
+                }
+            ], 
+            "name": "Congressional District 3 - U.S. Representative", 
+            "total_votes": "121404"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Peggy", 
+                    "last_name": "Ann Bierbaum", 
+                    "votes": "3792"
+                }, 
+                {
+                    "first_name": "Keith", 
+                    "last_name": "C Harper", 
+                    "votes": "5439"
+                }, 
+                {
+                    "first_name": "Michael", 
+                    "last_name": "Haas", 
+                    "votes": "2117"
+                }
+            ], 
+            "name": "Jefferson Superior Court - Judge Position 1", 
+            "total_votes": "11348"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Joel", 
+                    "last_name": "Penoyar", 
+                    "votes": "72198"
+                }
+            ], 
+            "name": "Court of Appeals, Division 2, District 3 - Judge Position 1", 
+            "total_votes": "72198"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Lisa", 
+                    "last_name": "Connors", 
+                    "votes": "10699"
+                }, 
+                {
+                    "first_name": "Christopher", 
+                    "last_name": "Hurst", 
+                    "votes": "14082"
+                }
+            ], 
+            "name": "Legislative District 31 - State Representative Pos. 2", 
+            "total_votes": "24781"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dawn", 
+                    "last_name": "Morrell", 
+                    "votes": "11704"
+                }, 
+                {
+                    "first_name": "Shelly", 
+                    "last_name": "Schlumpf", 
+                    "votes": "7940"
+                }, 
+                {
+                    "first_name": "Zac", 
+                    "last_name": "Nix", 
+                    "votes": "1272"
+                }, 
+                {
+                    "first_name": "Eric", 
+                    "last_name": "Hingsberger", 
+                    "votes": "1073"
+                }, 
+                {
+                    "first_name": "Carole", 
+                    "last_name": "Sue Braaten", 
+                    "votes": "568"
+                }, 
+                {
+                    "first_name": "Michele", 
+                    "last_name": "Smith", 
+                    "votes": "2588"
+                }
+            ], 
+            "name": "Legislative District 25 - State Representative Pos. 1", 
+            "total_votes": "25145"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Hans", 
+                    "last_name": "Zeiger", 
+                    "votes": "14484"
+                }, 
+                {
+                    "first_name": "Bill", 
+                    "last_name": "Hilton", 
+                    "votes": "10455"
+                }
+            ], 
+            "name": "Legislative District 25 - State Representative Pos. 2", 
+            "total_votes": "24939"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Greg", 
+                    "last_name": "Rankich", 
+                    "votes": "2567"
+                }, 
+                {
+                    "first_name": "Derek", 
+                    "last_name": "Stanford", 
+                    "votes": "13388"
+                }, 
+                {
+                    "first_name": "Brian", 
+                    "last_name": "Travis", 
+                    "votes": "5129"
+                }, 
+                {
+                    "first_name": "Sandy", 
+                    "last_name": "Guinn", 
+                    "votes": "7726"
+                }
+            ], 
+            "name": "Legislative District 1 - State Representative Pos. 1", 
+            "total_votes": "28810"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Luis", 
+                    "last_name": "Moscoso", 
+                    "votes": "19798"
+                }
+            ], 
+            "name": "Legislative District 1 - State Representative Pos. 2", 
+            "total_votes": "19798"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Joseph", 
+                    "last_name": "Daggy", 
+                    "votes": "7001"
+                }, 
+                {
+                    "first_name": "Marilyn", 
+                    "last_name": "Haan", 
+                    "votes": "10672"
+                }
+            ], 
+            "name": "Cowlitz Superior Court - Judge Position 4", 
+            "total_votes": "17673"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Adam", 
+                    "last_name": "Smith", 
+                    "votes": "72868"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Postma", 
+                    "votes": "27616"
+                }, 
+                {
+                    "first_name": "Tom", 
+                    "last_name": "Cramer", 
+                    "votes": "8376"
+                }, 
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Christie", 
+                    "votes": "3659"
+                }, 
+                {
+                    "first_name": "John", 
+                    "last_name": "Orlinski", 
+                    "votes": "6624"
+                }
+            ], 
+            "name": "Congressional District 9 - U.S. Representative", 
+            "total_votes": "119143"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "Hotchkiss", 
+                    "votes": "5556"
+                }
+            ], 
+            "name": "Douglas Superior Court  - Judge Position 1", 
+            "total_votes": "5556"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Joe", 
+                    "last_name": "Fitzgibbon", 
+                    "votes": "24247"
+                }
+            ], 
+            "name": "Legislative District 34 - State Representative Pos. 2", 
+            "total_votes": "24247"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Kaj", 
+                    "last_name": "Selmann", 
+                    "votes": "6748"
+                }, 
+                {
+                    "first_name": "Matt", 
+                    "last_name": "Manweller", 
+                    "votes": "15589"
+                }
+            ], 
+            "name": "Legislative District 13 - State Representative Pos. 2", 
+            "total_votes": "22337"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Judith", 
+                    "last_name": "(Judy) Warnick", 
+                    "votes": "18345"
+                }
+            ], 
+            "name": "Legislative District 13 - State Representative Pos. 1", 
+            "total_votes": "18345"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "William", 
+                    "last_name": "Giammarese", 
+                    "votes": "4492"
+                }, 
+                {
+                    "first_name": "Eileen", 
+                    "last_name": "L. Cody", 
+                    "votes": "23237"
+                }
+            ], 
+            "name": "Legislative District 34 - State Representative Pos. 1", 
+            "total_votes": "27729"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Katrina", 
+                    "last_name": "Asay", 
+                    "votes": "9965"
+                }, 
+                {
+                    "first_name": "Rick", 
+                    "last_name": "Hoffman", 
+                    "votes": "3842"
+                }, 
+                {
+                    "first_name": "Roger", 
+                    "last_name": "Freeman", 
+                    "votes": "6721"
+                }
+            ], 
+            "name": "Legislative District 30 - State Representative Pos. 2", 
+            "total_votes": "20528"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bud", 
+                    "last_name": "Sizemore", 
+                    "votes": "10453"
+                }, 
+                {
+                    "first_name": "Mark", 
+                    "last_name": "Hargrove", 
+                    "votes": "12242"
+                }
+            ], 
+            "name": "Legislative District 47 - State Representative Pos. 1", 
+            "total_votes": "22695"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Pat", 
+                    "last_name": "Sullivan", 
+                    "votes": "13090"
+                }, 
+                {
+                    "first_name": "Andy", 
+                    "last_name": "Massagli", 
+                    "votes": "9391"
+                }
+            ], 
+            "name": "Legislative District 47 - State Representative Pos. 2", 
+            "total_votes": "22481"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "R. (Jack) Connelly", 
+                    "votes": "9785"
+                }, 
+                {
+                    "first_name": "Jeannie", 
+                    "last_name": "Darneille", 
+                    "votes": "13738"
+                }
+            ], 
+            "name": "Legislative District 27 - State Senator", 
+            "total_votes": "23523"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Natalie", 
+                    "last_name": "McClendon", 
+                    "votes": "13724"
+                }, 
+                {
+                    "first_name": "Jason", 
+                    "last_name": "Overstreet", 
+                    "votes": "17348"
+                }
+            ], 
+            "name": "Legislative District 42 - State Representative Pos. 1", 
+            "total_votes": "31072"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Charles", 
+                    "last_name": "R. Steinberg", 
+                    "votes": "3492"
+                }, 
+                {
+                    "first_name": "Travis", 
+                    "last_name": "Brandt", 
+                    "votes": "4692"
+                }, 
+                {
+                    "first_name": "Ruth", 
+                    "last_name": "Esparza", 
+                    "votes": "2320"
+                }, 
+                {
+                    "first_name": "Alicia", 
+                    "last_name": "H. Nakata", 
+                    "votes": "6768"
+                }
+            ], 
+            "name": "Chelan Superior Court - Judge Position 3", 
+            "total_votes": "17272"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Matthew", 
+                    "last_name": "Krogh", 
+                    "votes": "13721"
+                }, 
+                {
+                    "first_name": "Vincent", 
+                    "last_name": "Buys", 
+                    "votes": "17274"
+                }
+            ], 
+            "name": "Legislative District 42 - State Representative Pos. 2", 
+            "total_votes": "30995"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "J.T.", 
+                    "last_name": "Wilcox", 
+                    "votes": "17880"
+                }
+            ], 
+            "name": "Legislative District 2 - State Representative Pos. 2", 
+            "total_votes": "17880"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mary", 
+                    "last_name": "Helen Roberts", 
+                    "votes": "18239"
+                }
+            ], 
+            "name": "Legislative District 21 - State Representative Pos. 1", 
+            "total_votes": "18239"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Marko", 
+                    "last_name": "Liias", 
+                    "votes": "17378"
+                }
+            ], 
+            "name": "Legislative District 21 - State Representative Pos. 2", 
+            "total_votes": "17378"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Greg", 
+                    "last_name": "Hartman", 
+                    "votes": "9477"
+                }, 
+                {
+                    "first_name": "Gary", 
+                    "last_name": "Alexander", 
+                    "votes": "13501"
+                }
+            ], 
+            "name": "Legislative District 2 - State Representative Pos. 1", 
+            "total_votes": "22978"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Sullivan", 
+                    "votes": "5928"
+                }
+            ], 
+            "name": "Pacific, Wahkiakum Superior Court - Judge Position 1", 
+            "total_votes": "5928"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dixie", 
+                    "last_name": "Kolditz", 
+                    "votes": "11316"
+                }, 
+                {
+                    "first_name": "Dean", 
+                    "last_name": "Takko", 
+                    "votes": "16589"
+                }
+            ], 
+            "name": "Legislative District 19 - State Representative Pos. 1", 
+            "total_votes": "27905"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Linda", 
+                    "last_name": "Kochmar", 
+                    "votes": "5492"
+                }, 
+                {
+                    "first_name": "Jerry", 
+                    "last_name": "Galland", 
+                    "votes": "1625"
+                }, 
+                {
+                    "first_name": "Thom", 
+                    "last_name": "Macfarlane", 
+                    "votes": "4070"
+                }, 
+                {
+                    "first_name": "Roger", 
+                    "last_name": "Flygare", 
+                    "votes": "5360"
+                }, 
+                {
+                    "first_name": "Tony", 
+                    "last_name": "Moore", 
+                    "votes": "4248"
+                }
+            ], 
+            "name": "Legislative District 30 - State Representative Pos. 1", 
+            "total_votes": "20795"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brian", 
+                    "last_name": "E. Blake", 
+                    "votes": "19506"
+                }
+            ], 
+            "name": "Legislative District 19 - State Representative Pos. 2", 
+            "total_votes": "19506"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "White", 
+                    "votes": "8494"
+                }, 
+                {
+                    "first_name": "Timm", 
+                    "last_name": "Ormsby", 
+                    "votes": "14102"
+                }
+            ], 
+            "name": "Legislative District 3 - State Representative Pos. 2", 
+            "total_votes": "22596"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Tim", 
+                    "last_name": "Benn", 
+                    "votes": "4868"
+                }, 
+                {
+                    "first_name": "Marcus", 
+                    "last_name": "Riccelli", 
+                    "votes": "6277"
+                }, 
+                {
+                    "first_name": "Bob", 
+                    "last_name": "Apple", 
+                    "votes": "4086"
+                }, 
+                {
+                    "first_name": "Jon", 
+                    "last_name": "Snyder", 
+                    "votes": "4317"
+                }, 
+                {
+                    "first_name": "Morgan", 
+                    "last_name": "Oyler", 
+                    "votes": "2993"
+                }
+            ], 
+            "name": "Legislative District 3 - State Representative Pos. 1", 
+            "total_votes": "22541"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Aaron", 
+                    "last_name": "Simpson", 
+                    "votes": "15783"
+                }, 
+                {
+                    "first_name": "Norma", 
+                    "last_name": "Smith", 
+                    "votes": "23054"
+                }
+            ], 
+            "name": "Legislative District 10 - State Representative Pos. 1", 
+            "total_votes": "38837"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Hayes", 
+                    "votes": "19543"
+                }, 
+                {
+                    "first_name": "Tom", 
+                    "last_name": "Riggs", 
+                    "votes": "18309"
+                }
+            ], 
+            "name": "Legislative District 10 - State Representative Pos. 2", 
+            "total_votes": "37852"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "William", 
+                    "last_name": "Payne", 
+                    "votes": "3763"
+                }, 
+                {
+                    "first_name": "Christopher", 
+                    "last_name": "Melly", 
+                    "votes": "4192"
+                }, 
+                {
+                    "first_name": "Erik", 
+                    "last_name": "Rohrer", 
+                    "votes": "6445"
+                }, 
+                {
+                    "first_name": "Curtis", 
+                    "last_name": "G. Johnson", 
+                    "votes": "3325"
+                }
+            ], 
+            "name": "Clallam Superior Court - Judge Position 1", 
+            "total_votes": "17725"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jennifer", 
+                    "last_name": "Forbes", 
+                    "votes": "25248"
+                }, 
+                {
+                    "first_name": "Rob", 
+                    "last_name": "MacDermid", 
+                    "votes": "8647"
+                }, 
+                {
+                    "first_name": "Bill", 
+                    "last_name": "Houser", 
+                    "votes": "7271"
+                }, 
+                {
+                    "first_name": "Karen", 
+                    "last_name": "Klein", 
+                    "votes": "10081"
+                }
+            ], 
+            "name": "Kitsap Superior Court - Judge Position 7", 
+            "total_votes": "51247"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bob", 
+                    "last_name": "Ferguson", 
+                    "votes": "685346"
+                }, 
+                {
+                    "first_name": "Reagan", 
+                    "last_name": "Dunn", 
+                    "votes": "506524"
+                }, 
+                {
+                    "first_name": "Stephen", 
+                    "last_name": "Pidgeon", 
+                    "votes": "134185"
+                }
+            ], 
+            "name": "Attorney General", 
+            "total_votes": "1326055"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bret", 
+                    "last_name": "A. Treadwell", 
+                    "votes": "11658"
+                }, 
+                {
+                    "first_name": "Christine", 
+                    "last_name": "Rolfes", 
+                    "votes": "21678"
+                }
+            ], 
+            "name": "Legislative District 23 - State Senator", 
+            "total_votes": "33336"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Robert", 
+                    "last_name": "G. Zimmerman", 
+                    "votes": "5943"
+                }, 
+                {
+                    "first_name": "Elizabeth", 
+                    "last_name": "Scott", 
+                    "votes": "6830"
+                }, 
+                {
+                    "first_name": "Robert", 
+                    "last_name": "Pilgrim", 
+                    "votes": "1793"
+                }, 
+                {
+                    "first_name": "Gregory", 
+                    "last_name": "Dean Lemke", 
+                    "votes": "677"
+                }, 
+                {
+                    "first_name": "Jocelynne", 
+                    "last_name": "(Josie) Fallgatter", 
+                    "votes": "3492"
+                }, 
+                {
+                    "first_name": "Eleanor", 
+                    "last_name": "Walters", 
+                    "votes": "7730"
+                }
+            ], 
+            "name": "Legislative District 39 - State Representative Pos. 2", 
+            "total_votes": "26465"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Linda", 
+                    "last_name": "Wright", 
+                    "votes": "11944"
+                }, 
+                {
+                    "first_name": "Dan", 
+                    "last_name": "Kristiansen", 
+                    "votes": "14916"
+                }
+            ], 
+            "name": "Legislative District 39 - State Representative Pos. 1", 
+            "total_votes": "26860"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Don", 
+                    "last_name": "Benton", 
+                    "votes": "10902"
+                }, 
+                {
+                    "first_name": "Tim", 
+                    "last_name": "Probst", 
+                    "votes": "10012"
+                }
+            ], 
+            "name": "Legislative District 17 - State Senator", 
+            "total_votes": "20914"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Drew", 
+                    "last_name": "Hansen", 
+                    "votes": "17377"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "M. Olsen", 
+                    "votes": "13334"
+                }, 
+                {
+                    "first_name": "Henning", 
+                    "last_name": "B. Larsen", 
+                    "votes": "2278"
+                }
+            ], 
+            "name": "Legislative District 23 - State Representative Pos. 2", 
+            "total_votes": "32989"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Linda", 
+                    "last_name": "Evans Parlette", 
+                    "votes": "24683"
+                }
+            ], 
+            "name": "Legislative District 12 - State Senator", 
+            "total_votes": "24683"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Hong", 
+                    "last_name": "Tran", 
+                    "votes": "77246"
+                }, 
+                {
+                    "first_name": "Sean", 
+                    "last_name": "O'Donnell", 
+                    "votes": "257024"
+                }
+            ], 
+            "name": "King Superior Court - Judge Position 29", 
+            "total_votes": "334270"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "R. Adams", 
+                    "votes": "279052"
+                }, 
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Kreidler", 
+                    "votes": "712095"
+                }, 
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Reilly", 
+                    "votes": "241377"
+                }, 
+                {
+                    "first_name": "Brian", 
+                    "last_name": "C. Berend", 
+                    "votes": "64303"
+                }
+            ], 
+            "name": "Insurance Commissioner", 
+            "total_votes": "1296827"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Vickie", 
+                    "last_name": "I. Churchill", 
+                    "votes": "16620"
+                }
+            ], 
+            "name": "Island Superior Court - Judge Position 2", 
+            "total_votes": "16620"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "P. Wulle", 
+                    "votes": "27252"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "E. Gregerson", 
+                    "votes": "31802"
+                }
+            ], 
+            "name": "Clark Superior Court - Judge Position 2", 
+            "total_votes": "59054"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Susan", 
+                    "last_name": "Fagan", 
+                    "votes": "18669"
+                }
+            ], 
+            "name": "Legislative District 9 - State Representative Pos. 1", 
+            "total_votes": "18669"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Joe", 
+                    "last_name": "Schmick", 
+                    "votes": "18722"
+                }
+            ], 
+            "name": "Legislative District 9 - State Representative Pos. 2", 
+            "total_votes": "18722"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sue", 
+                    "last_name": "Parisien", 
+                    "votes": "152763"
+                }, 
+                {
+                    "first_name": "Marianne", 
+                    "last_name": "Jones", 
+                    "votes": "67453"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "Ruzumna", 
+                    "votes": "24606"
+                }, 
+                {
+                    "first_name": "Christopher", 
+                    "last_name": "A. Washington", 
+                    "votes": "82325"
+                }
+            ], 
+            "name": "King Superior Court - Judge Position 42", 
+            "total_votes": "327147"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Elizabeth", 
+                    "last_name": "Berns", 
+                    "votes": "171720"
+                }, 
+                {
+                    "first_name": "Roger", 
+                    "last_name": "Davidheiser", 
+                    "votes": "108968"
+                }, 
+                {
+                    "first_name": "Eric", 
+                    "last_name": "Schmidt", 
+                    "votes": "53476"
+                }
+            ], 
+            "name": "King Superior Court - Judge Position 25", 
+            "total_votes": "334164"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Alan", 
+                    "last_name": "R. Hancock", 
+                    "votes": "17136"
+                }
+            ], 
+            "name": "Island Superior Court - Judge Position 1", 
+            "total_votes": "17136"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mary", 
+                    "last_name": "Kay Becker", 
+                    "votes": "62896"
+                }
+            ], 
+            "name": "Court of Appeals, Division 1, District 3 - Judge Position 1", 
+            "total_votes": "62896"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "James", 
+                    "last_name": "W. Lawler", 
+                    "votes": "11037"
+                }
+            ], 
+            "name": "Lewis Superior Court - Judge Position 2", 
+            "total_votes": "11037"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "John", 
+                    "last_name": "(Jack) H. Hill", 
+                    "votes": "49493"
+                }, 
+                {
+                    "first_name": "Vicki", 
+                    "last_name": "L. Hogan", 
+                    "votes": "77455"
+                }
+            ], 
+            "name": "Pierce Superior Court - Judge Position 5", 
+            "total_votes": "126948"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Bev", 
+                    "last_name": "Grant", 
+                    "votes": "51485"
+                }, 
+                {
+                    "first_name": "Jerry", 
+                    "last_name": "Costello", 
+                    "votes": "76049"
+                }
+            ], 
+            "name": "Pierce Superior Court - Judge Position 7", 
+            "total_votes": "127534"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Donald", 
+                    "last_name": "E. Eaton", 
+                    "votes": "3859"
+                }
+            ], 
+            "name": "San Juan Superior Court - Judge Position 1", 
+            "total_votes": "3859"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brian", 
+                    "last_name": "Altman", 
+                    "votes": "4056"
+                }
+            ], 
+            "name": "Klickitat, Skamania Superior Court - Judge Position 1", 
+            "total_votes": "4056"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Nettles", 
+                    "votes": "6870"
+                }, 
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Hewitt", 
+                    "votes": "16386"
+                }
+            ], 
+            "name": "Legislative District 16 - State Senator", 
+            "total_votes": "23256"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Curtis", 
+                    "last_name": "King", 
+                    "votes": "17241"
+                }
+            ], 
+            "name": "Legislative District 14 - State Senator", 
+            "total_votes": "17241"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Kirby", 
+                    "votes": "12840"
+                }
+            ], 
+            "name": "Legislative District 29 - State Representative Pos. 2", 
+            "total_votes": "12840"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "David", 
+                    "last_name": "Frazier", 
+                    "votes": "5856"
+                }
+            ], 
+            "name": "Whitman Superior Court - Judge Position 1", 
+            "total_votes": "5856"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mike", 
+                    "last_name": "Armstrong", 
+                    "votes": "16451"
+                }, 
+                {
+                    "first_name": "Brad", 
+                    "last_name": "Hawkins", 
+                    "votes": "11568"
+                }
+            ], 
+            "name": "Legislative District 12 - State Representative Pos. 2", 
+            "total_votes": "28019"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Cary", 
+                    "last_name": "Condotta", 
+                    "votes": "17901"
+                }, 
+                {
+                    "first_name": "Stan", 
+                    "last_name": "Morse", 
+                    "votes": "9536"
+                }
+            ], 
+            "name": "Legislative District 12 - State Representative Pos. 1", 
+            "total_votes": "27437"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Mark", 
+                    "last_name": "G. Schoesler", 
+                    "votes": "18749"
+                }
+            ], 
+            "name": "Legislative District 9 - State Senator", 
+            "total_votes": "18749"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Amber", 
+                    "last_name": "L Finlay", 
+                    "votes": "11147"
+                }
+            ], 
+            "name": "Mason Superior Court - Judge Position 1", 
+            "total_votes": "11147"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Toni", 
+                    "last_name": "A. Sheldon", 
+                    "votes": "10915"
+                }
+            ], 
+            "name": "Mason Superior Court - Judge Position 2", 
+            "total_votes": "10915"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Maureen", 
+                    "last_name": "Walsh", 
+                    "votes": "13468"
+                }, 
+                {
+                    "first_name": "Mary", 
+                    "last_name": "Ruth Edwards", 
+                    "votes": "8054"
+                }
+            ], 
+            "name": "Legislative District 16 - State Representative Pos. 1", 
+            "total_votes": "21522"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jim", 
+                    "last_name": "McIntire", 
+                    "votes": "925850"
+                }
+            ], 
+            "name": "State Treasurer", 
+            "total_votes": "925850"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Kastama", 
+                    "votes": "185425"
+                }, 
+                {
+                    "first_name": "David", 
+                    "last_name": "J. Anderson", 
+                    "votes": "44276"
+                }, 
+                {
+                    "first_name": "Sam", 
+                    "last_name": "Wright", 
+                    "votes": "20809"
+                }, 
+                {
+                    "first_name": "Karen", 
+                    "last_name": "Murray", 
+                    "votes": "50888"
+                }, 
+                {
+                    "first_name": "Kathleen", 
+                    "last_name": "Drew", 
+                    "votes": "289052"
+                }, 
+                {
+                    "first_name": "Kim", 
+                    "last_name": "Wyman", 
+                    "votes": "528754"
+                }, 
+                {
+                    "first_name": "Greg", 
+                    "last_name": "Nickels", 
+                    "votes": "210832"
+                }
+            ], 
+            "name": "Secretary of State", 
+            "total_votes": "1330036"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Laurel", 
+                    "last_name": "Siddoway", 
+                    "votes": "77767"
+                }
+            ], 
+            "name": "Court of Appeals, Division 3, District 1 - Judge Position 1", 
+            "total_votes": "77767"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Michael", 
+                    "last_name": "Baumgartner", 
+                    "votes": "417141"
+                }, 
+                {
+                    "first_name": "Will", 
+                    "last_name": "Baker", 
+                    "votes": "15005"
+                }, 
+                {
+                    "first_name": "Chuck", 
+                    "last_name": "Jackson", 
+                    "votes": "25983"
+                }, 
+                {
+                    "first_name": "Timmy", 
+                    "last_name": "(Doc) Wilson", 
+                    "votes": "31817"
+                }, 
+                {
+                    "first_name": "Art", 
+                    "last_name": "Coday", 
+                    "votes": "79727"
+                }, 
+                {
+                    "first_name": "Maria", 
+                    "last_name": "Cantwell", 
+                    "votes": "772058"
+                }, 
+                {
+                    "first_name": "Glen", 
+                    "last_name": "(Stocky) R. Stockwell", 
+                    "votes": "25793"
+                }, 
+                {
+                    "first_name": "Mike", 
+                    "last_name": "the Mover", 
+                    "votes": "19535"
+                }
+            ], 
+            "name": "U.S. Senator", 
+            "total_votes": "1387059"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Rob", 
+                    "last_name": "Hill", 
+                    "votes": "45453"
+                }, 
+                {
+                    "first_name": "Rob", 
+                    "last_name": "McKenna", 
+                    "votes": "604872"
+                }, 
+                {
+                    "first_name": "Jay", 
+                    "last_name": "Inslee", 
+                    "votes": "664534"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "White", 
+                    "votes": "13764"
+                }, 
+                {
+                    "first_name": "Christian", 
+                    "last_name": "Joubert", 
+                    "votes": "10457"
+                }, 
+                {
+                    "first_name": "Shahram", 
+                    "last_name": "Hadian", 
+                    "votes": "46169"
+                }, 
+                {
+                    "first_name": "L.", 
+                    "last_name": "Dale Sorgen", 
+                    "votes": "9734"
+                }, 
+                {
+                    "first_name": "Max", 
+                    "last_name": "Sampson", 
+                    "votes": "8753"
+                }, 
+                {
+                    "first_name": "Javier", 
+                    "last_name": "O. Lopez", 
+                    "votes": "6131"
+                }
+            ], 
+            "name": "Governor", 
+            "total_votes": "1409867"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Scott", 
+                    "last_name": "Olson", 
+                    "votes": "11589"
+                }, 
+                {
+                    "first_name": "Kirk", 
+                    "last_name": "Pearson", 
+                    "votes": "15494"
+                }
+            ], 
+            "name": "Legislative District 39 - State Senator", 
+            "total_votes": "27083"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Sylvester", 
+                    "last_name": "Cann", 
+                    "votes": "12876"
+                }, 
+                {
+                    "first_name": "Gerry", 
+                    "last_name": "Pollet", 
+                    "votes": "19081"
+                }
+            ], 
+            "name": "Legislative District 46 - State Representative Pos. 1", 
+            "total_votes": "31957"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "George", 
+                    "last_name": "L. Wood", 
+                    "votes": "14031"
+                }
+            ], 
+            "name": "Clallam Superior Court - Judge Position 2", 
+            "total_votes": "14031"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Jessyn", 
+                    "last_name": "Farrell", 
+                    "votes": "10560"
+                }, 
+                {
+                    "first_name": "Dusty", 
+                    "last_name": "Hoerler", 
+                    "votes": "4350"
+                }, 
+                {
+                    "first_name": "Scott", 
+                    "last_name": "M. Hodges", 
+                    "votes": "6271"
+                }, 
+                {
+                    "first_name": "Shelly", 
+                    "last_name": "Crocker", 
+                    "votes": "5571"
+                }, 
+                {
+                    "first_name": "Sarajane", 
+                    "last_name": "Siegfriedt", 
+                    "votes": "7823"
+                }, 
+                {
+                    "first_name": "Stan", 
+                    "last_name": "Lippmann", 
+                    "votes": "656"
+                }
+            ], 
+            "name": "Legislative District 46 - State Representative Pos. 2", 
+            "total_votes": "35231"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Grant", 
+                    "votes": "16963"
+                }, 
+                {
+                    "first_name": "Deborra", 
+                    "last_name": "Garrett", 
+                    "votes": "16814"
+                }, 
+                {
+                    "first_name": "Carrie", 
+                    "last_name": "M. Coppinger Carter", 
+                    "votes": "7499"
+                }
+            ], 
+            "name": "Whatcom Superior Court - Judge Position 2", 
+            "total_votes": "41276"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Maureen", 
+                    "last_name": "Judge", 
+                    "votes": "13874"
+                }, 
+                {
+                    "first_name": "Steve", 
+                    "last_name": "Litzow", 
+                    "votes": "17840"
+                }
+            ], 
+            "name": "Legislative District 41 - State Senator", 
+            "total_votes": "31714"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Larry", 
+                    "last_name": "Carter", 
+                    "votes": "13056"
+                }, 
+                {
+                    "first_name": "Jim", 
+                    "last_name": "Hargrove", 
+                    "votes": "24649"
+                }
+            ], 
+            "name": "Legislative District 24 - State Senator", 
+            "total_votes": "37705"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Brandon", 
+                    "last_name": "Vick", 
+                    "votes": "11373"
+                }, 
+                {
+                    "first_name": "Adrian", 
+                    "last_name": "E. Cortes", 
+                    "votes": "6199"
+                }
+            ], 
+            "name": "Legislative District 18 - State Representative Pos. 1", 
+            "total_votes": "17572"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "David", 
+                    "last_name": "Shehorn", 
+                    "votes": "7278"
+                }, 
+                {
+                    "first_name": "Ryan", 
+                    "last_name": "Gompertz", 
+                    "votes": "2082"
+                }, 
+                {
+                    "first_name": "Liz", 
+                    "last_name": "Pike", 
+                    "votes": "14838"
+                }
+            ], 
+            "name": "Legislative District 18 - State Representative Pos. 2", 
+            "total_votes": "24198"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "S.", 
+                    "last_name": "Brooke Taylor", 
+                    "votes": "13601"
+                }
+            ], 
+            "name": "Clallam Superior Court - Judge Position 3", 
+            "total_votes": "13601"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Karl", 
+                    "last_name": "F. Sloan", 
+                    "votes": "3239"
+                }, 
+                {
+                    "first_name": "Henry", 
+                    "last_name": "(Hank) Rawson", 
+                    "votes": "4945"
+                }
+            ], 
+            "name": "Okanogan Superior Court - Judge Position 1", 
+            "total_votes": "8184"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Randy", 
+                    "last_name": "J. Flyckt", 
+                    "votes": "1212"
+                }, 
+                {
+                    "first_name": "Brian", 
+                    "last_name": "H. Miller", 
+                    "votes": "1538"
+                }
+            ], 
+            "name": "Adams Superior Court  - Judge Position 1", 
+            "total_votes": "2750"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "David", 
+                    "last_name": "Sawyer", 
+                    "votes": "6404"
+                }, 
+                {
+                    "first_name": "Terry", 
+                    "last_name": "Harder", 
+                    "votes": "6101"
+                }, 
+                {
+                    "first_name": "Ben", 
+                    "last_name": "Lawver", 
+                    "votes": "4058"
+                }
+            ], 
+            "name": "Legislative District 29 - State Representative Pos. 1", 
+            "total_votes": "16563"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Dave", 
+                    "last_name": "Reichert", 
+                    "votes": "66220"
+                }, 
+                {
+                    "first_name": "Keith", 
+                    "last_name": "Swank", 
+                    "votes": "10942"
+                }, 
+                {
+                    "first_name": "James", 
+                    "last_name": "Windle", 
+                    "votes": "5269"
+                }, 
+                {
+                    "first_name": "Karen", 
+                    "last_name": "Porterfield", 
+                    "votes": "37083"
+                }, 
+                {
+                    "first_name": "Keith", 
+                    "last_name": "Arnold", 
+                    "votes": "7144"
+                }, 
+                {
+                    "first_name": "Ernest", 
+                    "last_name": "Huber", 
+                    "votes": "4165"
+                }
+            ], 
+            "name": "Congressional District 8 - U.S. Representative", 
+            "total_votes": "130823"
+        }, 
+        {
+            "candidates": [
+                {
+                    "first_name": "Marlin", 
+                    "last_name": "Appelwick", 
+                    "votes": "247549"
+                }
+            ], 
+            "name": "Court of Appeals, Division 1, District 1 - Judge Position 7", 
+            "total_votes": "247549"
+        }
+    ]
+}

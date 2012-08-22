@@ -1,3 +1,5 @@
+import json
+
 from elections.utils import slugify
 
 class Party(object):
@@ -19,6 +21,10 @@ class Candidate(object):
     def __unicode__(self):
         return "%s %s" % (self.first_name, self.last_name)
 
+    def __repr__(self):
+        # TODO
+        return self.__unicode__()
+
 
 class Race(object):
     
@@ -31,6 +37,13 @@ class Race(object):
 
     def add_candidate(self, candidate):
         self.candidates.append(candidate)
+    
+    def __unicode__(self):
+        return "%s" % self.title
+
+    def __repr__(self):
+        # TODO
+        return self.__unicode__()
 
 
 class DataSource(object):
@@ -58,11 +71,40 @@ class DataSource(object):
             created = True
         return self.races[race.slug], created 
 
+    def json_dump_results(self):
+        races = []
+        for i in self.races.iteritems():
+            race = i[1]
+            candidates = []
+            for c in race.candidates:
+                candidates.append(
+                    {
+                        'first_name': c.first_name,
+                        'last_name': c.last_name,
+                        'votes': c.votes,
+                    }
+                )
+            races.append(
+                {
+                    'name': race.title,
+                    'total_votes': race.total_votes,
+                    'candidates': candidates,
+                }
+            )
+
+        dump = {
+            'races': races
+        }
+        print json.dumps(dump, indent=4)
+
     def print_results(self):
         for i in self.races.iteritems():
             race = i[1]
             print ''
             print race
-            print race.candidates
+            for c in race.candidates:
+                print c
+                print c.votes
+                print ''
             print ''
 
