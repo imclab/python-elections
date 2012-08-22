@@ -4,3 +4,6 @@ private_settings.py
 *.swp
 *.pyc
 .DS_Store
+
+venv
+
