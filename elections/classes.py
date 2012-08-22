@@ -21,3 +21,17 @@ class Race(object):
         self.candidates = []
         self.total_votes = 0
 
+class DataSource(object):
+    """
+    Object to define what each data source will return.
+
+    @args:
+    source\tA string representing the source type.
+    """
+    
+    def __init__(self):
+        self.source = ''
+        self.href = ''
+        self.colums = {}
+        self.races = {}
+
