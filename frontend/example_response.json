@@ -1,0 +1,23 @@
+results: {
+	races: [
+		governor: {
+			name: "governor",
+			jurisdiction : "statewide",
+			candidates: [
+				"jay_inslee": {
+					first_name: "Jay",
+					last_name: "Inslee",
+					votes: 5023
+				},
+				"rob_mckenna": {
+					first_name: "Rob",
+				}
+			],
+			total_votes = 239051,
+		},
+		senator-d1: {
+			name: "senator d1",
+			jurisdiction: "d1",
+		},
+	]
+}
