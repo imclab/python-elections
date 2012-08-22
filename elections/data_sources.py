@@ -21,6 +21,7 @@ class SOS(DataSource):
             'PartyName': 6,
             'RaceJurisdictionTypeName': 7,
         }
+        self.races = {}
 
     def get_results(self):
         #r = requests.get('http://vote.wa.gov/results/current/export/MediaResults.txt')
@@ -47,15 +48,18 @@ class SOS(DataSource):
 
             p = Party(party_name, party_abbreviation)
 
-            c = Candidate(candidate_first_name, candidate_last_name)
-            c.votes = row[self.columns['Votes']]
+            c = Candidate(
+                candidate_first_name,
+                candidate_last_name,
+                row[self.columns['Votes']]
+            )
 
-            r = Race(row[self.columns['RaceName']], row[self.columns['RaceJurisdictionTypeName']])
-            r.total_votes = row[self.columns['TotalBallotsCastByRace']]
+            r = Race(
+                row[self.columns['RaceName']],
+                row[self.columns['RaceJurisdictionTypeName']],
+                row[self.columns['TotalBallotsCastByRace']]
+            )
 
-            print ''
-            print c
-            print c.first_name
-            print c.last_name
-            print ''
+            race, created = self.get_or_create_race(r)
+            race.add_candidate(c)
 
