@@ -1,10 +1,9 @@
-
 import csv
 import re
 
 import requests
 
-from classes import Candidate, DataSource, Party, Race
+from classes import Candidate, DataSource, Race
 
 class SOS(DataSource):
     
@@ -26,7 +25,7 @@ class SOS(DataSource):
     def get_results(self):
         #r = requests.get('http://vote.wa.gov/results/current/export/MediaResults.txt')
         #data = r.text
-        data = open('data/example_sos_response.txt', 'r')
+        data = open('../data/example_sos_response.txt', 'r')
 
         reader = csv.reader(data, delimiter='\t')
 
@@ -46,11 +45,11 @@ class SOS(DataSource):
                 party_name = party_result[0]
                 party_abbreviation = party_name[0].upper()
 
-            p = Party(party_name, party_abbreviation)
 
             c = Candidate(
                 candidate_first_name,
                 candidate_last_name,
+                party_name,
                 row[self.columns['Votes']]
             )
 

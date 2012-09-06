@@ -1,21 +1,14 @@
 import json
 
-from elections.utils import slugify
-
-class Party(object):
-    
-    def __init__(self, name, abbreviation):
-        self.name = name
-        self.slug = slugify(name)
-        self.abbreviation = abbreviation
-
+from utils import slugify
 
 class Candidate(object):
 
-    def __init__(self, first_name, last_name, votes):
+    def __init__(self, first_name, last_name, party, votes):
         self.first_name = first_name
         self.last_name = last_name
         self.slug = slugify(first_name + last_name)
+        self.party = party
         self.votes = votes
 
     def __unicode__(self):
@@ -79,16 +72,18 @@ class DataSource(object):
             for c in race.candidates:
                 candidates.append(
                     {
-                        'first_name': c.first_name,
+                        
                         'last_name': c.last_name,
                         'votes': c.votes,
+                        'party': c.party,
+                        'first_name': c.first_name,
                     }
                 )
             races.append(
                 {
-                    'name': race.title,
-                    'total_votes': race.total_votes,
-                    'candidates': candidates,
+                    'total_votes': race.total_votes,         
+                    'name': race.title, 
+                    'candidates': candidates, 
                 }
             )
 
