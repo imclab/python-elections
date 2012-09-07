@@ -1,15 +1,14 @@
 import json
 
-from utils import slugify
+from utils import slugify, party_lookup, candidate_percentages
 
 class Candidate(object):
 
-    def __init__(self, first_name, last_name, party, votes):
-        self.first_name = first_name
-        self.last_name = last_name
-        self.slug = slugify(first_name + last_name)
-        self.party = party
+    def __init__(self, name, party, votes, candidate_percentage):
+        self.name = name
+        self.party = party_lookup(party)
         self.votes = votes
+        self.candidate_percentage = candidate_percentages(candidate_percentage)
 
     def __unicode__(self):
         return "%s %s" % (self.first_name, self.last_name)
@@ -54,6 +53,9 @@ class DataSource(object):
     def get_results(self):
         # This should be defined by the subclass
         raise NotImplementedError
+    
+        
+        
 
     def get_or_create_race(self, race):
         try:
@@ -66,32 +68,38 @@ class DataSource(object):
 
     def json_dump_results(self):
         races = []
+        fileName = self.source
         for i in self.races.iteritems():
             race = i[1]
-            candidates = []
-            for c in race.candidates:
-                candidates.append(
+            if len(race.candidates) >1:
+                candidates = []
+                for c in race.candidates:
+                    candidates.append(
+                        {
+                            'name': c.name,
+                            'votes': c.votes,
+                            'party': c.party,
+                            'percentage': c.candidate_percentage
+                        }
+                    )
+                races.append(
                     {
-                        
-                        'last_name': c.last_name,
-                        'votes': c.votes,
-                        'party': c.party,
-                        'first_name': c.first_name,
+                        'total_votes': race.total_votes,         
+                        'name': race.title, 
+                        'candidates': candidates, 
                     }
                 )
-            races.append(
-                {
-                    'total_votes': race.total_votes,         
-                    'name': race.title, 
-                    'candidates': candidates, 
-                }
-            )
 
         dump = {
             'races': races
         }
-        print json.dumps(dump, indent=4)
-
+        allJson = json.dumps(dump, indent=4)
+        print allJson
+        jsonDump = open('../data/'+fileName+'.json', 'w+')
+        jsonDump.write(allJson)
+        jsonDump.close()    
+   
+   
     def print_results(self):
         for i in self.races.iteritems():
             race = i[1]
